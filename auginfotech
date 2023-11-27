@@ -1,0 +1,7 @@
+Write a JavaScript function that takes two numbers as arguments and returns their product. Call the function with the numbers 3 and 7.
+
+function cal( a, b){
+  var multi = a * b;
+  console.log("The products of these two number " + multi);
+}
+cal(3,7);
